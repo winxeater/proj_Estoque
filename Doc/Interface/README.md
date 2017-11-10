@@ -1,0 +1,1 @@
+#Prototipos de interface gráfica em imagens estáticas para se basear na construção da mesma
